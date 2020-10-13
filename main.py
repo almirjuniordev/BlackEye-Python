@@ -24,7 +24,7 @@ try:
                         BlackEye Python
 
 Original Shell Program Created By thelinuxchoice
-Link to Original: https://github.com/thelinuxchoice/blackeye
+Link to Original: https://github.com/M4cs/BlackEye-Python
 Forked no Use serveo: https://github.com/almirjuniordev/BlackEye-Python
 
 Differences:
